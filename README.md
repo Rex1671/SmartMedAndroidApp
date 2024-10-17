@@ -22,12 +22,12 @@ Health Query Assistance: Have all your health-related queries answered right wit
 
 ## Screenshots
 
-![Welcome Page](https://drive.google.com/file/d/1W2uN3gQvnSxMaJkfoHSx21LXx4utAP1h/view?usp=drive_link)
-![Sign Up Page](https://drive.google.com/file/d/1W34EakRkbjtgTkT2FtfX5RqGbSgYzpS-/view?usp=drive_link)
-![Log In Page](https://drive.google.com/file/d/1W5tawZRTrRX1UXB3RICvE69ntQ9AO4SM/view?usp=drive_link)
-![Profile Setup Page](https://drive.google.com/file/d/1W2P-Z2WXxLGf4hTUsRqGOtx32cXkyAI1/view?usp=drive_link)
-![Home Page](https://drive.google.com/file/d/1W7jX8uwMBCsl8RV0w8uStOUHZ-tmByxI/view?usp=drive_link)
-![Symptom Analysis Page](https://drive.google.com/file/d/1WB11NO450XVOYnIAyom_BC_CQ3CV8i5T/view?usp=drive_link)
+![Welcome Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/welcome.jpg?raw=true)
+![Sign Up Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/signup.jpg?raw=true)
+![Log In Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/login.jpg?raw=true)
+![Profile Setup Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/profile.jpg?raw=true)
+![Home Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/homepage.jpg?raw=true)
+![Symptom Analysis Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/symptom%20(1).jpg?raw=true)
 
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------- |
 |                                                                                                                           |                     |                                              |                                                                    |                                                     |
